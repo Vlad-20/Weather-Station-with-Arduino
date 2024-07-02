@@ -21,8 +21,8 @@ The circuit diagram shows the connections between the Arduino UNO, the DHT11 sen
 
 ## Photos of the Project
 Here are some photos of the assembled project:
-![Project Photo 1](project_photo1.png)
-![Project Photo 2](project_photo2.png)
+![Project Photo 1](image00007.jpeg)
+![Project Photo 2](image00008.jpeg)
 
 ## Code
 The code for this project initializes the sensors, reads data from them, and displays the data on the OLED screen. The code is written in Arduino C/C++ and uses the following libraries:
